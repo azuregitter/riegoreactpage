@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddf7070779fbdbc4445d99e59b35f98f",
+    "revision": "4b24aa7b0870d7a68b3ae2c0969853b5",
     "url": "/riegoreactpage/index.html"
   },
   {
-    "revision": "55c924285af4b60c0269",
+    "revision": "42dd50258434ca04cef2",
     "url": "/riegoreactpage/static/css/main.27fdb225.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/riegoreactpage/static/js/2.1295925a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "55c924285af4b60c0269",
-    "url": "/riegoreactpage/static/js/main.6a652831.chunk.js"
+    "revision": "42dd50258434ca04cef2",
+    "url": "/riegoreactpage/static/js/main.b08679ab.chunk.js"
   },
   {
     "revision": "bcfd70ec760ffffb7969",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "51886f7c80b23af9a34efe117ea982f5",
     "url": "/riegoreactpage/static/media/1.51886f7c.png"
+  },
+  {
+    "revision": "68c4a936e9cde8d7aea05460dd62bdda",
+    "url": "/riegoreactpage/static/media/2.68c4a936.png"
   },
   {
     "revision": "c6600fef5d25d873fa9bbd5a34f16183",
