@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/riegoreactpage/precache-manifest.a7e8e36b6843ff393243a09463ce128a.js"
+  "/riegoreactpage/precache-manifest.4577e6cbadeb45d0cd7581e78dd6a828.js"
 );
 
 self.addEventListener('message', (event) => {
